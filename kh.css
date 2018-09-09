@@ -1,0 +1,191 @@
+@charset "utf-8";
+/* CSS Document */
+#zhuti{
+	width:1663px;
+	height:1108px;
+	}
+#prehead{
+	width:1663px;
+	height:22px;
+	background:#303030;
+	}
+.class1{
+	text-indent:352px;
+	font:13px/21px "宋体";
+	margin-top:2px;
+	color:#d8d8d8;
+	display:inline-block;
+}
+#text1{
+	word-spacing:16px;
+	text-align:352px;
+	}
+#text2{
+	word-spacing:14px;
+    text-indent:610px;
+	}
+#head{
+	width:1663px;
+	height:98px;
+	}
+.class2{float:left;}
+#tubiao {
+	width:245px;
+	height:72px;
+	margin-left:352px;
+	margin-top:24px;
+	}
+#sousuo{
+	width:325px;
+	height:41px;
+	margin-top:28px;
+	margin-left:87px;
+	background:url(images/s_r.jpg) right no-repeat,url(images/s_z.jpg) left no-repeat,
+	url(images/s_c.jpg) repeat-x;
+	color: #757575;
+	font:16px/36px "宋体";
+	text-indent:4px;}
+#tel{
+	color:#ff0000;
+	font:bold 23px/35px "宋体";
+	margin-left:37px;
+	margin-top:32px;
+	}
+#nav1{
+	width:1663px;
+	height:39px;
+	background:url(images/nav_bg.jpg);}
+#first{
+	margin-left:352px;}
+#nav1 a{
+	width:104px;
+	height:39px;
+	text-decoration:none;
+	font:12px/36px "宋体";
+	word-spacing:25px;
+	color:#fff;
+	display:inline-block;}
+#nav1 a:hover{
+    background:url(images/nav_hover.jpg) repeat-x;}
+#picture{
+	width:1663px;
+	height:206px;
+	margin-left:352px;}
+#two{
+	margin-top:24px;}
+.class4{
+	float:left;
+	}
+#jianjie{
+	width:534px;
+	height:335px;
+	margin-left:352px;}
+#title_jianjie{
+	width:561px;
+	height:45px;
+	background:url(images/jianjie.jpg) no-repeat;}
+#more{
+	margin-left:487px;
+	color:#d2090a;
+	font:bold 11px "Times New Roman";
+	margin-top:-9px;
+}
+#neirong_jianjie{
+	width:538px;
+	height:289px;
+	}
+#picture_jianjie img{
+	float:left;
+	margin-right:10px;}
+#neirong_jianjie p{
+	color:#616161;
+	font:13px/22px "宋体";
+	text-indent:30px;}
+#news{
+	margin-left:15px;}
+#neirong_news{
+	width:400px;
+	height:335px;}
+#more1{
+	margin-left:347px;
+	color:#d2090a;
+	font:bold 11px "Times New Roman";
+	margin-top:-9px;
+	}
+#part1{
+		height:70px;
+		width:410px;}
+.class5{display:inline-block;}
+#ps1{
+	width:269px;
+	height:66px;
+	margin-left:10px;}
+.class6{
+	margin-top:4px;
+	width:400px;
+	height:27px;
+	color:#616161;
+	font:13px/40px "宋体";
+	text-indent:30px;
+	background:url(images/list_bg.jpg) no-repeat 0 19px;
+    float:left;}
+.class7{
+	float:right;
+	color:#616161;
+	font:13px/40px "宋体";
+	}
+.class0{
+	display:inline-block;}
+#commend{
+	width:960px;
+	height:282px;
+	margin-left:352px;}
+#share{
+	float:right;
+	background-attachment:fixed;
+	margin-right:61px;}
+#more2{
+	margin-left:920px;
+	color:#d2090a;
+	font:bold 11px "Times New Roman";
+	margin-top:-9px;}
+#lianxi{
+	background:#aa1819;
+	width:1663px;
+	height:82px;
+	}
+.class8{float:left;}
+#us{
+	margin-top:33px;
+	margin-left:352px;
+	}
+#us a{
+	text-decoration:none;
+	color:#fff;
+	font-size:17px ;
+	word-spacing:11px;
+	}
+#us a:hover{
+	background:#fff;
+	color:#aa1810;}
+#ICP{
+	font-size:13px;
+	color:#fff;
+	margin-top:35px;
+	margin-left:218px;
+	}
+#others{
+	width:1663px;
+	height:23px;
+	background:#303030;}
+#title{color:#f60;
+	margin-left:352px;
+	float:left;
+	margin-top:3px;}
+#others a{
+	color:#acacac;
+	font-size:13px;
+	margin-left:9px;
+	margin-top:3px;
+	float:left;
+	text-decoration:none;}
